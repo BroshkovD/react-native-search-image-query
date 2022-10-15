@@ -1,0 +1,6 @@
+module Pods_imageQuerySearchApp_imageQuerySearchAppTests {
+  umbrella header "Pods-imageQuerySearchApp-imageQuerySearchAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
